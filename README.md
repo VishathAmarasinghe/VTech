@@ -1,5 +1,3 @@
 # VTech
 
-
-hello I'm Vishath Akila Amarasinghe
-
+hello I'm Vishath Akila Amarapala
